@@ -41,7 +41,7 @@ Please be aware that node already comes with MD5 built in - see [here](http://st
     
 Then in your code do
 
-    md5 = require('md5')
+    md5 = require('md5-jkmyers')
     md5('hello, world!')
 
    
