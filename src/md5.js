@@ -1,3 +1,5 @@
+'use strict';
+
 function md5cycle(x, k) {
 var a = x[0], b = x[1], c = x[2], d = x[3];
 
@@ -98,7 +100,7 @@ return cmn(c ^ (b | (~d)), a, b, x, s, t);
 }
 
 function md51(s) {
-txt = '';
+var txt = '';
 var n = s.length,
 state = [1732584193, -271733879, -1732584194, 271733878], i;
 for (i=64; i<=s.length; i+=64) {
