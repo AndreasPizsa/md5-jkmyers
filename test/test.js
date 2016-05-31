@@ -1,4 +1,6 @@
-should = require('should');
+'use strict';
+
+var should = require('should');
 
 describe('The MD5 function when loaded with "require"',function(){
 	var md5;
