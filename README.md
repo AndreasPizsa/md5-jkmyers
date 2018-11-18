@@ -58,4 +58,4 @@ Joseph Myers does not specify a particular license for his work.
 ### Andreas Pizsa
 MIT
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/AndreasPizsa/md5-jkmyers/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/AndreasPizsa/md5-jkmyers/trend.png)](https://bitdeli.com/free "Bitdeli Badge") [![Greenkeeper badge](https://badges.greenkeeper.io/AndreasPizsa/md5-jkmyers.svg)](https://greenkeeper.io/)
